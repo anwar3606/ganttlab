@@ -59,3 +59,4 @@ The real list is quite long, but here are some key credits to people and tools t
 ## License
 
 The GanttLab application is distributed under the [Apache License, Version 2.0](LICENSE). Please have a look at the dependencies licenses if you plan on using, building, or distributing this application.
+
